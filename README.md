@@ -1,10 +1,10 @@
 # portfolio
 
-\# 🚀 Rodrigo Muñoz – Software Engineering Technician
+# 🚀 Rodrigo Muñoz – Software Engineering Technician
 
 
 
-👋 Hi there! I'm Rodrigo Muñoz from San Juan, Argentina. I'm a \*\*Software Engineer Technician\*\* and \*\*HSE (Health, Safety \& Environment) Specialist\*\*. I develop complete web and mobile solutions and have experience working with companies around the world.
+👋 I'm Rodrigo Muñoz from San Juan, Argentina. I'm a Software Engineer Technician and Health, Safety & Environment Specialist. I develop complete web and mobile solutions and have experience working with companies around the world.
 
 
 
@@ -32,13 +32,9 @@ I aim to contribute to \*\*human development\*\*, creating optimal systems to so
 
 \- ✅ \*Participated in a world record photovoltaic project\* – 54,090 panels installed in a single day:
 
-&nbsp; - \[Article 1](https://energiasrenovables.com.ar/2019/11/01/cipsa-argentina-scatec-solar-and-equinor-achieve-the-world-record-mounting-54090-solar-panels-in-a-single-day-in-the-solar-park-guanizuil-ii-las-flores-province-of-san-juan-in-argentina/)
+&nbsp; - \[World Record](https://energiasrenovables.com.ar/2019/11/01/cipsa-argentina-scatec-solar-and-equinor-achieve-the-world-record-mounting-54090-solar-panels-in-a-single-day-in-the-solar-park-guanizuil-ii-las-flores-province-of-san-juan-in-argentina/)
 
-&nbsp; - \[Article 2](https://www.tiempodesanjuan.com/sanjuan/2019/11/4/record-total-en-san-juan-una-empresa-instalo-54090-paneles-solares-en-12-horas-270376.html)
-
-&nbsp; - \[Article 3](https://www.energiaestrategica.com/54-090-paneles-en-un-solo-dia-una-empresa-argentina-alcanzo-el-record-mundial-de-instalacion-fotovoltaica/)
-
-&nbsp; - \[Article 4](https://www.memo.com.ar/hechos/empresa-argentina-record-global-de-instalacion-de-paneles-solares/)
+&nbsp; - \[SUINFI](https://www.youtube.com/watch?app=desktop&v=Ura7DZaDuXY)
 
 
 
@@ -74,9 +70,7 @@ I aim to contribute to \*\*human development\*\*, creating optimal systems to so
 
 
 
-🔗 Visit my portfolio: \[www.suinfi.com](https://www.suinfi.com/)  
-
-🔗 GitHub: \[github.com/munozrodrigo](https://github.com/munozrodrigo)  
+🔗 Visit my portfolio: \https://github.com/MunozRodrigoMauro/portfolio
 
 🔗 LinkedIn: \[linkedin.com/in/rodrigo-mauro-muñoz](https://www.linkedin.com/in/rodrigo-mauro-mu%C3%B1oz-%E3%83%84-62a1a3151/)
 
